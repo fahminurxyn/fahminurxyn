@@ -1,10 +1,6 @@
 # Hello World!, I'm Fahmi, an Indonesia Developer 👋🏼:
 I am passionate about IT and have expertise in UI/UX Design, Graphic Design, Frontend Development, Backend Development, and Motion Graphics. I enjoy creating visually appealing and user-friendly digital experiences by combining design and coding skills. Constantly learning and keeping up with the latest trends, I strive to improve my craft and collaborate on exciting projects that challenge my creativity and technical abilities
 
-# 💫 About Me:
-🔭 I’m currently working on: Proyek desain UI/UX dan pengembangan web<br>🛠 I’m looking to collaborate on: Proyek frontend, backend, atau motion graphic<br>🤝 I’m looking for help with: Teknologi terbaru di bidang UI/UX dan development<br>🌱 I’m currently learning: Tren terbaru dalam UI/UX dan pengembangan web<br>💬 Ask me about: UI/UX Design, Frontend & Backend Development, Motion Graphic<br>⚡ Fun fact: Aku bisa menggabungkan desain dan coding untuk membuat pengalaman digital yang menarik!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heavenly.fhm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fahminuryk) 
 
