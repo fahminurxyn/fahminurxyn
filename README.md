@@ -7,8 +7,6 @@ I am passionate about IT and have expertise in UI/UX Design, Graphic Design, Fro
 ---
 [![](https://visitcount.itsvg.in/api?id=fahminurxyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
