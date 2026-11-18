@@ -7,6 +7,8 @@ I am passionate about IT and have expertise in UI/UX Design, Graphic Design, Fro
 ---
 [![](https://visitcount.itsvg.in/api?id=fahminurxyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
+name: GitHub Snake Game
+
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
