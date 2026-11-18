@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./assets/banner.gif" width="100%" alt="Profile Banner" />
+</div>
+
 # Hello World!, I'm Fahmi, an Indonesia Developer 👋🏼:
 I am passionate about IT and have expertise in UI/UX Design, Graphic Design, Frontend Development, I enjoy creating visually appealing and user-friendly digital experiences by combining design and coding skills. Constantly learning and keeping up with the latest trends.
 
